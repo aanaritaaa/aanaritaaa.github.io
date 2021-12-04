@@ -1,0 +1,295 @@
+.body{
+	position: absolute;
+width: 89%;
+height: 920px;
+left: 206px;
+top: 219px;
+
+
+background-size: cover;
+filter: alpha(Opacity=25);
+    opacity: 0.25;
+}
+
+.head{
+	position: absolute;
+width: 100%;
+height: 219px;
+left: 0px;
+top: 0px;
+
+
+background-size: 100%;
+}
+
+.logo{
+	position: absolute;
+width: 106px;
+height: 119px;
+left: 100px;
+top: 38px;
+border-radius: 10%;
+
+}
+
+.back{
+	position: absolute;
+	
+	width: 274px;
+	height: 64px;
+	left: 100px;
+	top: 115px;
+}
+
+.text1{
+	position: absolute;
+width: 828px;
+height: 117px;
+left: 700px;
+top: -70px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 100px;
+line-height: 117px;
+
+
+
+color: #F8F2F4;
+
+text-shadow: 10px 0px 2px #000000;
+}
+
+
+.left{
+	position: absolute;
+	width: 206px;
+	height: 920px;
+	left: 0px;
+	top: 219px;
+	
+	
+}
+
+.down{
+	position: absolute;
+width: 100%;
+height: 110px;
+left: 0px;
+top: 1100px;
+
+background: #5C6864;
+}
+
+.text2{
+	position: absolute;
+width: 252px;
+height: 62px;
+left: 100px;
+top: 1100px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 53px;
+
+color: #F8F2F4;
+
+text-shadow: 10px 0px 2px #000000;
+}
+
+.glav{
+	position: absolute;
+width: 232px;
+height: 45px;
+left: 678px;
+top: 255px;
+
+background: #C4C4C4;
+}
+
+.textglav{
+	position: absolute;
+width: 133px;
+height: 48px;
+left: 727px;
+top: 215px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 48px;
+font-weight:600;
+color:  #000000;
+}
+
+.zamer{
+	position: absolute;
+width: 232px;
+height: 45px;
+left: 930px;
+top: 255px;
+
+background: #798582 ;
+}
+
+.textzamer{
+	position: absolute;
+width: 130px;
+height: 48px;
+left: 979px;
+top: 215px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 48px;
+font-weight:600;
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgb(255, 255, 255);
+}
+
+.otzv{
+	position: absolute;
+width: 232px;
+height: 45px;
+left: 1182px;
+top: 255px;
+
+background: #C4C4C4;
+}
+
+.textotzv{
+	position: absolute;
+width: 144px;
+height: 48px;
+left: 1232px;
+top: 215px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 48px;
+font-weight:600;
+
+color: #000000;
+}
+
+.mail{
+position: absolute;
+width: 60px;
+height: 60px;
+left: 1600px;
+top: 1130px;
+
+
+
+
+}
+
+.inst{
+	position: absolute;
+width: 60px;
+height: 60px;
+left: 1670px;
+top: 1130px;
+
+
+}
+
+.one{
+	position: absolute;
+width: 1200px;
+height: 66px;
+left: 429px;
+top: 350px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+font-weight:900;
+color: #000000;
+
+
+}
+
+.two{
+	position: absolute;
+width: 1200px;
+height: 66px;
+left: 429px;
+top: 496px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+font-weight:600;
+color: #000000;
+
+}
+
+.three{
+	position: absolute;
+width: 1200px;
+height: 66px;
+left: 429px;
+top: 642px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+font-weight:600;
+color: #000000;
+
+
+
+}
+
+.four{
+
+	position: absolute;
+width: 1200px;
+height: 66px;
+left: 429px;
+top: 788px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+font-weight:600;
+color: #000000;
+
+
+}
+
+
+.five{
+	position: absolute;
+width: 1200px;
+height: 66px;
+left: 429px;
+top: 934px;
+
+font-family: 'Poiret One', cursive;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+font-weight:600;
+color: #000000;
+
+
+}
